@@ -12,7 +12,7 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
 - 💬 Or reach me at my LinkedIn www.linkedin.com/in/jacek-jan-nowak
 - 🔭 I’m currently working on new application to properly display my portfolio of architectural work.
 - 🌱 I’m currently learning Vanilla JS, React and CS50 Introduction to Computer Science - Harvard University.
-- 
+  
 I am keen to pursue career as a Full Stack Developer.
 
 
