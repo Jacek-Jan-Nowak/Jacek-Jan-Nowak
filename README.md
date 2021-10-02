@@ -8,15 +8,15 @@ I am proficient in design, creative thinking, time managment and I am a born pro
 Gained experience in a start up environment for the past 3 years. <br/>
 I'm a lifelong learner with need to be challenged and develop all the time. <br/>
 
-- ⚡ Please discover my portfolio https://issuu.com/jacekjannowak/docs/academic_portfolio
-- 💬 Or reach me at my LinkedIn www.linkedin.com/in/jacek-jan-nowak
+- ❤️ Please discover my portfolio https://issuu.com/jacekjannowak/docs/academic_portfolio
+- 📫 Or reach me at my LinkedIn www.linkedin.com/in/jacek-jan-nowak
 - 🔭 I’m currently working on new application to properly display my portfolio of architectural work.
 - 🌱 I’m currently learning Vanilla JS, React and CS50 Introduction to Computer Science - Harvard University.
-  
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a great hugger!  
+
 I am keen to pursue career as a **Full Stack Developer**.
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a great hugger!
 
 
 <!--
