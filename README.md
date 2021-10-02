@@ -15,6 +15,8 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
   
 I am keen to pursue career as a **Full Stack Developer**.
 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a great hugger!
 
 
 <!--
