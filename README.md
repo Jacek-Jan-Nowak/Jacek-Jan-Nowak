@@ -3,10 +3,10 @@
 ### I'm a recent graduate at Le Wagon coding bootcamp, where I currently teach. 
 ### An architect for the major part of the last decade. 
 
-I obtained two bachelor’s degrees at the same time and finished a master’s degree while working full-time. 
-I am proficient in design, creative thinking, time managment and I am a born problem solver, passionate about utilizing my skills in programming. 
-Gained experience in a start up environment for the past 3 years. 
-Lifelong learner with need to be challenged and develop all the time. 
+I obtained two bachelor’s degrees at the same time and finished a master’s degree while working full-time. <br/>
+I am proficient in design, creative thinking, time managment and I am a born problem solver, passionate about utilizing my skills in programming. <br/>
+Gained experience in a start up environment for the past 3 years. <br/>
+I'm a lifelong learner with need to be challenged and develop all the time. <br/>
 
 - ⚡ Please discover my portfolio https://issuu.com/jacekjannowak/docs/academic_portfolio
 - 💬 Or reach me at my LinkedIn www.linkedin.com/in/jacek-jan-nowak
