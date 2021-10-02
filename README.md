@@ -1,4 +1,6 @@
-## Hi there 👋 My name is Jacek (Yatsek) and I'm a recent graduate at Le Wagon coding bootcamp, where I currently teach. 
+## Hi there 👋 My name is Jacek (Yatsek)
+
+### I'm a recent graduate at Le Wagon coding bootcamp, where I currently teach. 
 ### An architect for the major part of the last decade. 
 
 I obtained two bachelor’s degrees at the same time and finished a master’s degree while working full-time. 
