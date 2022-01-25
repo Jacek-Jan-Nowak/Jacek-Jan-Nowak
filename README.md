@@ -15,8 +15,8 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a great hugger!  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jacek-Jan-Nowak)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jacek-Jan-Nowak)](https://github.com/Jacek-Jan-Nowak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak)](https://github.com/Jacek-Jan-Nowak/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=github-social-network)](https://github.com/Jacek-Jan-Nowak/social-network)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=github-tested_app)](https://github.com/Jacek-Jan-Nowak/github-tested_app)
