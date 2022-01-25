@@ -18,8 +18,8 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
 
 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&bg_color=161b22&border_color=30363d&text_color=ffffff&title_color=ffffff&icon_color=3fb938&hide=haml)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacek-Jan-Nowak&count_private=true&show_icons=true&bg_color=161b22&border_color=30363d&text_color=ffffff&title_color=ffffff&icon_color=38a6ff&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=3fb938&hide=haml)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacek-Jan-Nowak&count_private=true&show_icons=true&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=38a6ff&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
 Some recent stuff:
 
