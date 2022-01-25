@@ -32,8 +32,6 @@ Some recent stuff:
 
 I am keen to pursue career as a **Full Stack Developer**.
 
-   
-
 <!--
 **Jacek-Jan-Nowak/Jacek-Jan-Nowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
