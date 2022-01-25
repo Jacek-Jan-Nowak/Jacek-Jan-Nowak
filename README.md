@@ -23,6 +23,9 @@ My stats:
 
 Some recent stuff:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=JavaScript30&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=Calculator&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
 
