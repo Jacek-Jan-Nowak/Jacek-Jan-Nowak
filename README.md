@@ -8,8 +8,6 @@ I am proficient in design, creative thinking, time managment and I am a born pro
 Gained experience in a start up environment for the past 3 years. <br/>
 I'm a lifelong learner with need to be challenged and develop all the time. <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&layout=compact&bg_color=161b22&border_color=30363d&text_color=ffffff&title_color=ffffff&icon_color=3fb938)](https://github.com/anuraghazra/github-readme-stats)
-
 - ❤️ Please discover my portfolio https://issuu.com/jacekjannowak/docs/academic_portfolio
 - 📫 Or reach me at my LinkedIn www.linkedin.com/in/jacek-jan-nowak
 - 🔭 I’m currently working on new application to properly display my portfolio of architectural work.
@@ -17,12 +15,16 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a great hugger!  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacek-Jan-Nowak&count_private=true&show_icons=true&bg_color=161b22&border_color=30363d&text_color=ffffff&title_color=3fb938&icon_color=3fb938)](https://github.com/anuraghazra/github-readme-stats)
+
+My stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&bg_color=161b22&border_color=30363d&text_color=ffffff&title_color=ffffff&icon_color=3fb938)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacek-Jan-Nowak&count_private=true&show_icons=true&bg_color=161b22&border_color=30363d&text_color=ffffff&title_color=ffffff&icon_color=38a6ff&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
 Some recent stuff:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=161b22&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=161b22&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
 
 I am keen to pursue career as a **Full Stack Developer**.
 
