@@ -18,17 +18,25 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
 
 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=3fb938&hide=haml)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacek-Jan-Nowak&count_private=true&show_icons=true&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=38a6ff&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=3fb938&hide=haml,scss,css,makefile)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacek-Jan-Nowak&count_private=true&show_icons=true&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=38a6ff&line_height=40)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=3fb938&hide=haml,scss,css,makefile)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacek-Jan-Nowak&count_private=true&show_icons=true&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=38a6ff&line_height=40)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 Some recent stuff:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/social-network)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/tested_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/social-network#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/tested_app#gh-dark-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=JavaScript30&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/JavaScript30)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=CS50_2021&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/CS50_2021)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=JavaScript30&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/JavaScript30#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=CS50_2021&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/CS50_2021#gh-dark-mode-only)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/social-network#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/tested_app#gh-light-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=JavaScript30&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/JavaScript30#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=CS50_2021&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/CS50_2021#gh-light-mode-only)
 
 I am keen to pursue career as a **Full Stack Developer**.
 
