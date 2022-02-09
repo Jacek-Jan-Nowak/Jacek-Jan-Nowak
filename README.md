@@ -25,14 +25,14 @@ My stats:
 
 Some recent stuff:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/social-network#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/tested_app#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=GARDNR&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/GARDNR#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=OneTwoThree&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/OneTwoThree#gh-dark-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=JavaScript30&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/JavaScript30#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=CS50_2021&bg_color=0d1117&border_color=30363d&text_color=8b949e&icon_color=8b949e)](https://github.com/Jacek-Jan-Nowak/CS50_2021#gh-dark-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=social-network&bg_color=ffffff&border_color=d0d7ded&text_color=57606a&icon_color=57606a)](https://github.com/Jacek-Jan-Nowak/social-network#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=tested_app&bg_color=ffffff&border_color=d0d7ded&text_color=57606a&icon_color=57606a)](https://github.com/Jacek-Jan-Nowak/tested_app#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=GARDNR&bg_color=ffffff&border_color=d0d7ded&text_color=57606a&icon_color=57606a)](https://github.com/Jacek-Jan-Nowak/GARDNR#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=OneTwoThree&bg_color=ffffff&border_color=d0d7ded&text_color=57606a&icon_color=57606a)](https://github.com/Jacek-Jan-Nowak/OneTwoThree#gh-light-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=JavaScript30&bg_color=ffffff&border_color=d0d7de&text_color=57606a&icon_color=57606a)](https://github.com/Jacek-Jan-Nowak/JavaScript30#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jacek-Jan-Nowak&repo=CS50_2021&bg_color=ffffff&border_color=d0d7de&text_color=57606a&icon_color=57606a)](https://github.com/Jacek-Jan-Nowak/CS50_2021#gh-light-mode-only)
