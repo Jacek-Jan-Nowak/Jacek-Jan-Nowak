@@ -15,6 +15,7 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a great hugger!  
 
+
 My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacek-Jan-Nowak&bg_color=161b22&border_color=30363d&text_color=8b949e&title_color=ffffff&icon_color=3fb938&hide=haml,scss,css,makefile)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
