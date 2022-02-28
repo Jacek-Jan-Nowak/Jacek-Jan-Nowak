@@ -11,7 +11,7 @@ I'm a lifelong learner with need to be challenged and develop all the time. <br/
 - ❤️ Please discover my portfolio https://issuu.com/jacekjannowak/docs/academic_portfolio
 - 📫 Or reach me at my LinkedIn www.linkedin.com/in/jacek-jan-nowak
 - 🔭 I’m currently working on new application to properly display my portfolio of architectural work.
-- 🌱 I’m currently learning Vanilla JS, React and CS50 Introduction to Computer Science - Harvard University.
+- 🌱 I’m currently learning Node JS, MongoDB and React.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a great hugger!  
 
