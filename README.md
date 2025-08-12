@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Jacek (Yatsek)
 
-### Software Engineer (SDE II) at Accredible.
+### Software Engineer in Bionic Group Ltd.
 ### An architect for the major part of the last decade. 
 
 I obtained two bachelor’s degrees at the same time and finished a master’s degree while working full-time. <br/>
