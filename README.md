@@ -5,7 +5,7 @@
 
 I obtained two bachelor’s degrees at the same time and finished a master’s degree while working full-time. <br/>
 I am proficient in design, creative thinking, time managment and I am a born problem solver, passionate about utilizing my skills in programming. <br/>
-Gained experience in a start up environment for the past 3 years. <br/>
+4 years of experience. <br/>
 I'm a lifelong learner with need to be challenged and develop all the time. <br/>
 
 
